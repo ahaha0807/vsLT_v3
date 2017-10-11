@@ -9,6 +9,7 @@
 - Twitter: @ahaha0807＿alg
 - Web系エンジニア
 - 最近はLINE BOT作ったりRailsでアプリ作ったり
-- ![アイコン](https://avatars2.githubusercontent.com/u/16623885?v=4&s=460)
+
+<img src="https://avatars2.githubusercontent.com/u/16623885?v=4&s=460" width="150" height="150" alt="アイコン">
 
 --- 
