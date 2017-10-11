@@ -10,6 +10,6 @@
 - Web系エンジニア
 - 最近はLINE BOT作ったりRailsでアプリ作ったり
 
-<img src="https://avatars2.githubusercontent.com/u/16623885?v=4&s=460" width="150" height="150" alt="アイコン">
+<img src="https://avatars2.githubusercontent.com/u/16623885?v=4&s=460" width="200" height="200" alt="アイコン">
 
 --- 
